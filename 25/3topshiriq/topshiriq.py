@@ -17,6 +17,3 @@ for name, scores in loaded_students.items():
     print(f"{name}: ortacha bahosi = {avg:.2f}")
  
 
-# with open("results.txt", "w", encoding="utf-8") as file:
-#     for line in results:
-#         file.write(line + "\n")
